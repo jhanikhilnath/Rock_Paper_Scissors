@@ -12,6 +12,8 @@ section {
 	background-color: rgb(39, 41, 68);
 }
 
+
+
 .score {
 	height: 20vh;
 	display: flex;
@@ -24,6 +26,10 @@ section {
 	text-align: center;
 	font-size: 27px;
 	color: rgb(216, 213, 213);
+}
+
+.player-hand {
+	transform: rotateY(180deg);
 }
 
 .match {
